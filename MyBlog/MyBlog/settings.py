@@ -1,3 +1,6 @@
+
+# コメント
+
 """
 Django settings for MyBlog project.
 
