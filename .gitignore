@@ -14,4 +14,4 @@ myblog_env/
 __pycache__
 
 
-MyBlog/local_settings.py
+Code/MyBlog/local_settings.py
