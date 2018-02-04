@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+.eggs
+*.egg-info
+.cache
+.coverage
+.tox
+
+db.sqlite3
+manage.py
+
+myblog_env/
+
+__pycache__
+
+
+MyBlog/local_settings.py
