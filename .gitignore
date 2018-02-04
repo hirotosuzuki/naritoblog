@@ -12,6 +12,6 @@ manage.py
 myblog_env/
 
 __pycache__
+staticfiles
 
-
-Code/MyBlog/local_settings.py
+local_settings.py
